@@ -1,6 +1,6 @@
 name: John F Howes CPA
 favicon: null
-layout_spectrum: 0.7932504923082888
+layout_spectrum: 0.90534
 typography_spectrum: 0.17522617639042437
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#d8b57f'
+    - '#21190e'
+    - '#626262'
+    - '#f98670'
   brandStrength: 0.5625
   lightness: 0.44084754027426243
   saturation: 0.7663308870978653
