@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[John F Howes CPA]]></title>
+        <description><![CDATA[John F Howes CPA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 15:45:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Firm of John F Howes CPA]]></title>
+            <description><![CDATA[<article><h1>Firm of John F Howes CPA</h1><p>Welcome to the website of John F. Howes, CPA. We are a full service tax preparation, planning and business services firm.  Please call or email about any questions that you have or needs that you want addressed. Be sure to check out our CpaJohnBlog here.  Our firm is accepting new clients.</p></article>]]></description>
+            <link>undefinedfirm-of-john-f-howes-cpa/index.html</link>
+            <guid isPermaLink="false">09422e62-33b7-4e52-9e93-013182a81181</guid>
+            <pubDate>Sun, 20 Dec 2015 15:45:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
